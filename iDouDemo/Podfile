@@ -1,0 +1,14 @@
+
+platform:ios,8.0
+
+target 'iDouDemo' do
+
+    pod 'YTKNetwork'
+    pod 'MJExtension'
+    pod 'ReactiveObjC'
+    pod 'Masonry'
+    pod 'SDWebImage'
+    pod 'MJRefresh'
+    pod 'SVProgressHUD'
+end
+
